@@ -1,5 +1,4 @@
 import openai
-import speech_recognition as sr
 import os
 from flask import Flask, request, jsonify
 from io import BytesIO
